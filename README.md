@@ -60,3 +60,8 @@ if __name__ == '__main__':
 
 ## Вывод
 ![image](https://github.com/user-attachments/assets/71a9f1b4-cce1-4e85-a7f3-05e2a8316a1e)
+
+Тесты  
+
+![image](https://github.com/user-attachments/assets/b66c0dc0-1554-4671-a3c0-149c9f4dbf83)
+
